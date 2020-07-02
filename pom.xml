@@ -11,7 +11,7 @@
   <properties>
 		<spring-version>4.0.3.RELEASE</spring-version>
 		
-		<mysql-version>5.1.27</mysql-version>
+		<mysql-version>8.0.16</mysql-version>
 		<apache-connection-pooling-version>1.4</apache-connection-pooling-version>
 		<jdk.version>1.8</jdk.version>
 	</properties>
